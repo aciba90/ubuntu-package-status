@@ -1,0 +1,6 @@
+ubuntu-package-status (0.1.4-1) UNRELEASED; urgency=low
+
+  * Initial release. Closes: #nnnn
+    <nnnn is the bug number of your ITP>
+
+ -- Alberto Contreras <alberto.contreras@canonical.com>  Thu, 16 May 2024 09:36:57 +0200

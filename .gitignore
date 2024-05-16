@@ -1,0 +1,7 @@
+/.idea/
+/config.yaml
+/__pycache__/
+/packagestats.csv
+/packagestats.db
+/snap/.snapcraft/state
+*.snap
